@@ -4,7 +4,7 @@
 <body>
     <h2>It's working on Tomcat server(9.0.65)</h2>
     <hr>
-    <h1>Hello My Friend dsifjdsifjsdifjsdifjisdfjisdjf</h1>
+    <h1>여친 만들고 싶다!!!</h1>
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
